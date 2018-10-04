@@ -13,5 +13,11 @@ namespace TestProject
         {
             Assert.AreEqual(5, Calculator.Add(2,3));
         }
+        
+        [Test]
+        public void Test2()
+        {
+            Assert.AreEqual(6, Calculator.Add(2,3));
+        }
     }
 }
