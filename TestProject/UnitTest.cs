@@ -11,5 +11,11 @@ namespace TestProject
         {
             Assert.AreEqual(5, Calculator.Add(2,3));
         }
+        
+        [TestMethod]
+        public void TestBad()
+        {
+            Assert.AreEqual(4, Calculator.Add(2,3));
+        }
     }
 }
