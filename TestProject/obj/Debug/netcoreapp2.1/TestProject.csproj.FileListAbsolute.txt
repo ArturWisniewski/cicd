@@ -1,0 +1,17 @@
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\bin\Debug\netcoreapp2.1\TestProject.deps.json
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\bin\Debug\netcoreapp2.1\TestProject.runtimeconfig.json
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\bin\Debug\netcoreapp2.1\TestProject.runtimeconfig.dev.json
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\bin\Debug\netcoreapp2.1\TestProject.dll
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\bin\Debug\netcoreapp2.1\TestProject.pdb
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\bin\Debug\netcoreapp2.1\SandboxCore.dll
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\bin\Debug\netcoreapp2.1\SandboxCore.pdb
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\obj\Debug\netcoreapp2.1\TestProject.csprojAssemblyReference.cache
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\obj\Debug\netcoreapp2.1\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\obj\Debug\netcoreapp2.1\TestProject.AssemblyInfoInputs.cache
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\obj\Debug\netcoreapp2.1\TestProject.AssemblyInfo.cs
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\obj\Debug\netcoreapp2.1\TestProject.csproj.CopyComplete
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\obj\Debug\netcoreapp2.1\TestProject.dll
+C:\Users\awisniewski\Desktop\Necto\Repositories\SandboxCore\TestProject\obj\Debug\netcoreapp2.1\TestProject.pdb

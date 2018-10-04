@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxCore", "SandboxCore\SandboxCore.csproj", "{DF02E77C-42E3-4C48-A6B2-1F7BDB9B1B0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{6F9718CA-2A68-49CC-B673-248DDEB69B4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{DF02E77C-42E3-4C48-A6B2-1F7BDB9B1B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF02E77C-42E3-4C48-A6B2-1F7BDB9B1B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF02E77C-42E3-4C48-A6B2-1F7BDB9B1B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9718CA-2A68-49CC-B673-248DDEB69B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9718CA-2A68-49CC-B673-248DDEB69B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9718CA-2A68-49CC-B673-248DDEB69B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9718CA-2A68-49CC-B673-248DDEB69B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

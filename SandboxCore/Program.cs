@@ -2,11 +2,11 @@
 
 namespace SandboxCore
 {
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine($"Adding 2 + 3 = {Calculator.Add(2,3)}");
         }
     }
 }
