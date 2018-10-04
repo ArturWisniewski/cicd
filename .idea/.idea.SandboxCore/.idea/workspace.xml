@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ea040a-5b2a-42c7-b7e2-516550b08283" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SandboxCore/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SandboxCore/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SandboxCore/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SandboxCore/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SandboxCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SandboxCore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SandboxCore.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SandboxCore.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject/obj/Debug/netcoreapp2.1/TestProject.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject/obj/Debug/netcoreapp2.1/TestProject.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject/obj/TestProject.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject/obj/TestProject.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject/obj/TestProject.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject/obj/TestProject.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +19,11 @@
     <session id="-1432145433">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -32,14 +38,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="146" />
+          <entry key="cs" value="152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="146" />
+          <entry key="C#" value="152" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -50,7 +58,6 @@
             <state relative-caret-position="136">
               <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
               <folding>
-                <marker date="1538655963163" expanded="true" signature="36:223" ph="{...}" />
                 <marker date="1538655963163" expanded="true" signature="70:221" ph="{...}" />
                 <marker date="1538655963163" expanded="true" signature="123:215" ph="{...}" />
               </folding>
@@ -64,7 +71,6 @@
             <state relative-caret-position="68">
               <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding>
-                <marker date="1538655952149" expanded="true" signature="21:155" ph="{...}" />
                 <marker date="1538655952149" expanded="true" signature="51:153" ph="{...}" />
                 <marker date="1538655952149" expanded="true" signature="101:147" ph="{...}" />
               </folding>
@@ -75,13 +81,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestProject/UnitTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
-                <marker date="1538656046304" expanded="true" signature="6:70" ph="..." />
-                <marker date="1538656046304" expanded="true" signature="93:278" ph="{...}" />
-                <marker date="1538656046304" expanded="true" signature="137:276" ph="{...}" />
-                <marker date="1538656046304" expanded="true" signature="197:270" ph="{...}" />
+                <marker date="1538657941344" expanded="true" signature="6:70" ph="..." />
+                <marker date="1538657941344" expanded="true" signature="137:409" ph="{...}" />
+                <marker date="1538657941344" expanded="true" signature="197:270" ph="{...}" />
+                <marker date="1538657941344" expanded="true" signature="330:403" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -93,7 +99,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TestProject/UnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestProject/UnitTest.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SandboxCore/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SandboxCore/Calculator.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -113,7 +119,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="22" />
     <option name="width" value="1936" />
@@ -134,62 +140,10 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="SandboxCore" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SandboxCore" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="SandboxCore" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SandboxCore" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TestProject" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SandboxCore" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TestProject" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SandboxCore" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TestProject" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".NETCoreApp 2.1" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SandboxCore" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TestProject" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".NETCoreApp 2.1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Packages" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SandboxCore" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TestProject" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="bin" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SandboxCore" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TestProject" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="bin" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="Debug" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SandboxCore" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TestProject" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="bin" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="Debug" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="netcoreapp2.1" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
-        <option name="show-all-files" value="true" />
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -197,6 +151,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderNUnitUnitTestingPageId" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,12 +196,13 @@
       <option name="presentableId" value="Default" />
       <updated>1538651431058</updated>
       <workItem from="1538651434714" duration="481000" />
-      <workItem from="1538655677458" duration="1634000" />
+      <workItem from="1538655677458" duration="2708000" />
+      <workItem from="1538659925194" duration="161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2338000" />
+    <option name="totallyTimeSpent" value="3573000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,12 +214,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -277,11 +232,12 @@
       <window_info anchor="bottom" id="Unit Tests" order="10" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939914" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info active="true" anchor="right" id="Unit Tests Coverage" order="4" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="4" visible="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,9 +247,25 @@
     <option name="coveragePercentColumnWidth" value="150" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="234" />
+    <option name="symbolColumnWidth" value="313" />
     <coverage-tree-state>
-      <expand />
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="3" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="3" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="10" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="3" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="10" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="11" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
       <select />
     </coverage-tree-state>
   </component>
@@ -311,39 +283,37 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SandboxCore/Calculator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding>
-            <marker date="1538655952149" expanded="true" signature="21:155" ph="{...}" />
-            <marker date="1538655952149" expanded="true" signature="51:153" ph="{...}" />
-            <marker date="1538655952149" expanded="true" signature="101:147" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SandboxCore/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
           <folding>
-            <marker date="1538655963163" expanded="true" signature="36:223" ph="{...}" />
             <marker date="1538655963163" expanded="true" signature="70:221" ph="{...}" />
             <marker date="1538655963163" expanded="true" signature="123:215" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SandboxCore/Calculator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <marker date="1538655952149" expanded="true" signature="51:153" ph="{...}" />
+            <marker date="1538655952149" expanded="true" signature="101:147" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestProject/UnitTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
-            <marker date="1538656046304" expanded="true" signature="6:70" ph="..." />
-            <marker date="1538656046304" expanded="true" signature="93:278" ph="{...}" />
-            <marker date="1538656046304" expanded="true" signature="137:276" ph="{...}" />
-            <marker date="1538656046304" expanded="true" signature="197:270" ph="{...}" />
+            <marker date="1538657941344" expanded="true" signature="6:70" ph="..." />
+            <marker date="1538657941344" expanded="true" signature="137:409" ph="{...}" />
+            <marker date="1538657941344" expanded="true" signature="197:270" ph="{...}" />
+            <marker date="1538657941344" expanded="true" signature="330:403" ph="{...}" />
           </folding>
         </state>
       </provider>
