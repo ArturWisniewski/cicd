@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ea040a-5b2a-42c7-b7e2-516550b08283" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SandboxCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SandboxCore/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestProject/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject/Tests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication/Calculator.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="283" />
+          <entry key="cs" value="290" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="283" />
+          <entry key="C#" value="290" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -62,25 +61,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConsoleApplication/Calculator.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="136">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding>
-                <marker date="1538660427020" expanded="true" signature="28:162" ph="{...}" />
-                <marker date="1538660427020" expanded="true" signature="58:160" ph="{...}" />
-                <marker date="1538660427020" expanded="true" signature="108:154" ph="{...}" />
+                <marker date="1538744813429" expanded="true" signature="28:177" ph="{...}" />
+                <marker date="1538744813429" expanded="true" signature="58:175" ph="{...}" />
+                <marker date="1538744813429" expanded="true" signature="108:154" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestProject/Tests.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
               <folding>
                 <marker date="1538741909197" expanded="false" signature="6:88" ph="..." />
                 <marker date="1538741909197" expanded="true" signature="111:534" ph="{...}" />
@@ -112,8 +111,8 @@
         <option value="$PROJECT_DIR$/TestProject/UnitTest.cs" />
         <option value="$PROJECT_DIR$/TestProject1/Tests.cs" />
         <option value="$PROJECT_DIR$/ConsoleApplication/Program.cs" />
-        <option value="$PROJECT_DIR$/ConsoleApplication/Calculator.cs" />
         <option value="$PROJECT_DIR$/TestProject/Tests.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApplication/Calculator.cs" />
       </list>
     </option>
   </component>
@@ -224,12 +223,12 @@
       <updated>1538651431058</updated>
       <workItem from="1538651434714" duration="481000" />
       <workItem from="1538655677458" duration="2708000" />
-      <workItem from="1538659925194" duration="2471000" />
+      <workItem from="1538659925194" duration="3094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5883000" />
+    <option name="totallyTimeSpent" value="6506000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -241,7 +240,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -334,22 +333,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConsoleApplication/Calculator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding>
-            <marker date="1538660427020" expanded="true" signature="28:162" ph="{...}" />
-            <marker date="1538660427020" expanded="true" signature="58:160" ph="{...}" />
-            <marker date="1538660427020" expanded="true" signature="108:154" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestProject/Tests.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
           <folding>
             <marker date="1538741909197" expanded="false" signature="6:88" ph="..." />
             <marker date="1538741909197" expanded="true" signature="111:534" ph="{...}" />
@@ -357,6 +344,18 @@
             <marker date="1538741909197" expanded="true" signature="203:276" ph="{...}" />
             <marker date="1538741909197" expanded="true" signature="328:401" ph="{...}" />
             <marker date="1538741909197" expanded="true" signature="453:526" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApplication/Calculator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <marker date="1538744813429" expanded="true" signature="28:177" ph="{...}" />
+            <marker date="1538744813429" expanded="true" signature="58:175" ph="{...}" />
+            <marker date="1538744813429" expanded="true" signature="108:154" ph="{...}" />
           </folding>
         </state>
       </provider>
