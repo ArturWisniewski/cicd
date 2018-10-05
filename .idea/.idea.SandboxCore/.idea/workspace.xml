@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ea040a-5b2a-42c7-b7e2-516550b08283" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SandboxCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SandboxCore/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApplication/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication/Calculator.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="290" />
+          <entry key="cs" value="299" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="290" />
+          <entry key="C#" value="299" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -65,11 +66,11 @@
         <entry file="file://$PROJECT_DIR$/ConsoleApplication/Calculator.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <caret line="8" column="23" selection-end-line="10" selection-end-column="1" />
               <folding>
-                <marker date="1538744813429" expanded="true" signature="28:177" ph="{...}" />
-                <marker date="1538744813429" expanded="true" signature="58:175" ph="{...}" />
-                <marker date="1538744813429" expanded="true" signature="108:154" ph="{...}" />
+                <marker date="1538745975074" expanded="true" signature="28:186" ph="{...}" />
+                <marker date="1538745975074" expanded="true" signature="58:184" ph="{...}" />
+                <marker date="1538745975074" expanded="true" signature="108:154" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -122,7 +123,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="22" />
     <option name="width" value="1936" />
@@ -223,12 +224,12 @@
       <updated>1538651431058</updated>
       <workItem from="1538651434714" duration="481000" />
       <workItem from="1538655677458" duration="2708000" />
-      <workItem from="1538659925194" duration="3094000" />
+      <workItem from="1538659925194" duration="3917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6506000" />
+    <option name="totallyTimeSpent" value="7329000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,11 +352,11 @@
     <entry file="file://$PROJECT_DIR$/ConsoleApplication/Calculator.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <caret line="8" column="23" selection-end-line="10" selection-end-column="1" />
           <folding>
-            <marker date="1538744813429" expanded="true" signature="28:177" ph="{...}" />
-            <marker date="1538744813429" expanded="true" signature="58:175" ph="{...}" />
-            <marker date="1538744813429" expanded="true" signature="108:154" ph="{...}" />
+            <marker date="1538745975074" expanded="true" signature="28:186" ph="{...}" />
+            <marker date="1538745975074" expanded="true" signature="58:184" ph="{...}" />
+            <marker date="1538745975074" expanded="true" signature="108:154" ph="{...}" />
           </folding>
         </state>
       </provider>
